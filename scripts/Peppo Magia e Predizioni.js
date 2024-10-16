@@ -1,4 +1,4 @@
-let randomNumber = Math.random();
+const randomNumber = Math.random();
 
 function prediction() {
   console.log(randomNumber);
